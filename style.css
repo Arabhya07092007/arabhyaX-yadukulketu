@@ -522,7 +522,7 @@ a {
 }
 
 .skillssubhd {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
@@ -720,14 +720,14 @@ a {
   .txtskills {
     font-size: 22px;
     font-weight: bold;
-    padding-left: 40px;
-    padding-right: 40px;
-    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
     line-height: 28px;
   }
 
   .projectstxt {
-    font-size: 25px;
+    font-size: 18px;
     /* font-weight: bold; */
     /* text-align: center; */
     /* color: black; */
@@ -771,5 +771,9 @@ a {
     padding: 0px;
     /* height: 100vh; */
     padding-top: 70px;
+  }
+
+  .colorblack {
+    font-size: 25px;
   }
 }
