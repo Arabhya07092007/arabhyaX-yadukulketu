@@ -686,10 +686,12 @@ a {
   }
 
   .third {
-    font-size: 18px;
+    font-size: 22px;
     line-height: 28px;
     padding-left: 0px;
     padding-right: 0px;
+
+    /* font-family: "Sofia Pro", sans-serif; */
   }
 
   .skillsheading {
@@ -716,7 +718,7 @@ a {
     padding: 20px;
   }
   .txtskills {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     padding-left: 40px;
     padding-right: 40px;
@@ -736,7 +738,7 @@ a {
   }
 
   .cardCont {
-    margin: 0px;
+    margin: 30px;
     /* justify-content: center; */
   }
 
@@ -753,7 +755,7 @@ a {
   }
 
   .logotxt {
-    font-size: 30px;
+    font-size: 27px;
   }
 
   .navbar {
